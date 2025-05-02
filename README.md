@@ -15,7 +15,7 @@ Hello there! My name is Bahriyanto Anang, and I am a passionate web developer wi
 ### 🔥 My Stats 
 ![Bahriyanto GitHub stats](https://github-readme-stats.vercel.app/api?username=bahriyanto31&show_icons=true&theme=shadow_green)
 
-<img src="https://raw.githubusercontent.com/bahriyanto31/bahriyanto31/output/snake.svg" alt="Snake animation" />
+<!-- <img src="https://raw.githubusercontent.com/bahriyanto31/bahriyanto31/output/snake.svg" alt="Snake animation" /> -->
 
 ###
 
