@@ -17,6 +17,15 @@ Hello there! My name is Bahriyanto Anang, and I am a passionate web developer wi
 
 <img src="https://raw.githubusercontent.com/bahriyanto31/bahriyanto31/output/snake.svg" alt="Snake animation" />
 
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bahriyanto31/bahriyanto31/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bahriyanto31/bahriyanto31/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/bahriyanto31/bahriyanto31/output/pacman-contribution-graph.svg">
+</picture>
+
+###
 
 
 
