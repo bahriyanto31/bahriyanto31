@@ -7,7 +7,7 @@
 <br>
  <!-- ![Header](./github-header-image.png) -->
 
-Hello there! My name is Bahriyanto Anang, and I am a passionate web developer with a strong expertise in PHP and web frameworks like CodeIgniter 3 and 4, as well as Laravel. Additionally, I possess the skills to create impressive frontend websites using Vue.js and Nuxt.js.
+Hello there! My name is Bahriyanto Anang, and I am a passionate web developer with a strong expertise in PHP and web frameworks like CodeIgniter 3 and 4, as well as Laravel, Golang, & Node Js. Additionally, I possess the skills to create impressive frontend websites using Vue.js and Nuxt.js.
 
 ### 🛠️ Language and tools
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,php,laravel,nodejs,alpinejs,tailwind,vue,supabase,docker,debian)](https://skillicons.dev)
